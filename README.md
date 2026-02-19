@@ -18,7 +18,7 @@ You can just do this on the Pi itself, but we don't recommend it.
 Start by getting the installer.
 
 ```
-wget https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/Install.sh https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/LK.py
+wget https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/Install.sh https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/LK.py https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/MyPi%20License
 ```
 
 Then, run the pre-install.

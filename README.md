@@ -1,15 +1,15 @@
 # MyPi
 
-
 Hey! Welcome to MyPi!
-This will show you how to use it!
+What do we do? Well, we make scripting so much 
+easier! Want to try it? Download now!
 
 ## For Raspberry Pi's
 
 **This also works for anyone running Debian 12+.**
 
 First, SSH into or log in to the machine you plan to use.
-You can just do this on the Pi itself, but it's not recommended by us.
+You can just do this on the Pi itself, but we don't recommend it.
 
 Then, run this command,
 
@@ -28,7 +28,11 @@ Once it has said "Done."  Then you may delete it using ``` rm "LK.py" ```.
 
 ### Main install
 
-not done yet cause im lazy
+Start by getting the installer.
+
+```
+wget https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/Install.sh
+```
 
 ## Want to have this setup guide on your machine? [OPTIONAL!!!]
 

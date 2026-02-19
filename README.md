@@ -3,6 +3,7 @@
 Hey! Welcome to MyPi!
 What do we do? Well, we make scripting so much 
 easier! Want to try it? Download now!
+<img width="1024" height="1024" alt="mypi" src="https://github.com/user-attachments/assets/9fe19d74-2aff-4345-8ac2-7f67fe9c2b9f" />
 
 ## For Raspberry Pi's
 

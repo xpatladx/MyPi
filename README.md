@@ -28,3 +28,9 @@ Once it has said "Done."  Then you may delete it using ``` rm "LK.py" ```.
 ### Main install
 
 not done yet cause im lazy
+
+## Want to have this setup guide on your machine? [OPTIONAL!!!]
+
+```
+https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/README.md
+```

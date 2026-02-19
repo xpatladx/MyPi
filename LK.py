@@ -1,6 +1,6 @@
 import os
 
 filename = "MyPi License"
-os.chmod(filename, 0o444)
+os.chmod(filename, u-r)
 
 print("Done.")

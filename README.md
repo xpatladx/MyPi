@@ -34,3 +34,11 @@ not done yet cause im lazy
 ```
 https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/README.md
 ```
+
+Read the file using
+
+```
+nano README.md
+```
+
+------------------------------

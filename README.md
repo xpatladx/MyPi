@@ -6,7 +6,7 @@ This will show you how to use it!
 
 ## For Raspberry Pi's
 
-This also works for anyone running Debian 12+.
+**This also works for anyone running Debian 12+.**
 
 First, SSH into or log in to the machine you plan to use.
 You can just do this on the Pi itself, but it's not recommended by us.
@@ -16,6 +16,7 @@ Then, run this command,
 ```
 wget https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/MyPi%20License https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/LK.py
 ```
+!!! This will download our license. If you don't want it, use ```rm "/.MyPi License"```
 
 After you do that, run the LK script.
 

@@ -4,12 +4,18 @@
 Hey! Welcome to MyPi!
 This will show you how to use it!
 
-### For Raspberry Pi's
+## For Raspberry Pi's
 
 This also works for anyone running Debian 12+.
 
 First, run,
 
 ```
-wget https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/MyPi%20License
+wget https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/MyPi%20License https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/LK.py
+```
+
+After you do that, run the LK script.
+
+```
+python3 LK.py
 ```

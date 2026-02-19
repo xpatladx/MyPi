@@ -1,5 +1,4 @@
-import subprocess
-
+import os
 filename = "MyPi License"
-subprocess.call(['chmod', 'u-r', filename])
+os.chmod(filename, 0o000)
 print("Done.")

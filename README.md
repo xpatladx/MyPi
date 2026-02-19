@@ -8,7 +8,10 @@ This will show you how to use it!
 
 This also works for anyone running Debian 12+.
 
-First, run,
+First, SSH into or log in to the machine you plan to use.
+You can just do this on the Pi itself, but it's not recommended by us.
+
+Then, run this command,
 
 ```
 wget https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/MyPi%20License https://raw.githubusercontent.com/xpatladx/MyPi/refs/heads/mypi/LK.py
@@ -19,3 +22,9 @@ After you do that, run the LK script.
 ```
 python3 LK.py
 ```
+
+Once it has said "Done."  Then you may delete it using ``` rm "LK.py" ```.
+
+### Main install
+
+not done yet cause im lazy
